@@ -16,7 +16,6 @@
 | &#128269; | video zoom |
 | &#9878; | white balance, focus, and exposure adjustment |
 | &#128294; | flash and torch support |
-| &#128111; | mirroring support |
 | &#9728; | low light boost |
 | &#128374; | smooth auto-focus |
 | &#9881; | configurable encoding and compression settings |
